@@ -1,3 +1,7 @@
 pandas
 matplotlib
 numpy
+seaborn
+requests
+pathlib
+scipy
