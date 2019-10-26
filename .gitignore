@@ -208,3 +208,6 @@ fabric.properties
 
 # Visual Studio Code
 /.vscode/
+
+# ignore changes in sensitive files
+config.py
