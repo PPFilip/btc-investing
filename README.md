@@ -1,3 +1,6 @@
+# Obsolete
+This repository is obsolete - refer to [btc-Revisited](https://github.com/PPFilip/btc-Revisited) for updates
+
 # Crypto financial analysis scripts and notebooks
 This project contains a collection of Python scripts and Jupyter notebooks dealing with different aspects of investing into cryptocurrencies. Outputs will be published on https://shitcoin.ninja
 
